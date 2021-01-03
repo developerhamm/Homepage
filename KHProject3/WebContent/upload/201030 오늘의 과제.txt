@@ -1,0 +1,9 @@
+오늘의 과제 입니다
+
+제공된 파일(quiz.txt) 의 내용을 읽어 들여
+
+바이트 스트림으로 저장해 보세요(저장시 확장자명을 gif 으로 변경하세요)
+
+참고>아래 메소드 활용
+(FileReader, BufferedReader, FileOutputStream, 
+ArrayList<Byte>, StringTokenizer, Exception 처리)
